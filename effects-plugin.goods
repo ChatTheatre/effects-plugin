@@ -1,0 +1,10 @@
+{
+    "name": "Effects Plugin",
+    "git": {
+        "url": "https://github.com/ChatTheatre/effects-plugin",
+        "branch": "main"
+    },
+    "paths": {
+        "skoot/data/vault": "data/vault"
+    }
+}
